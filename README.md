@@ -25,4 +25,4 @@ dice{6}=maskSratch{2}';
 %dice{6}=cell2mat(data{3})';
 
 
-![alt text](https://github.com/RuthMarin/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/RuthMarin/matlab-graphics/blob/master/diceExp1-tile.jpg?raw=true)
